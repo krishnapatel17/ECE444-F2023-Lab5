@@ -1,10 +1,15 @@
 # ECE444-F2023-Lab5
 Unit tests written: 
 test_events_page_not_logged_in
+
 test_events_page_loads
+
 test_user_profile
+
 test_profile_not_logged_in
+
 test_password_reset
+
 test_reset_password_not_logged_in
 
 TDD: Pros and Cons 
